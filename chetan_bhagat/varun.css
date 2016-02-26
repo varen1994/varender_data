@@ -3,7 +3,7 @@
 
 int main()
 {
-  printf("bad boy");
+  printf("varun is a bad boy");
   getch();
   return 0;
 } 
